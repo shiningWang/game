@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/game/static/css/main.c707a2c9.chunk.css",
+    "main.js": "/game/static/js/main.2643eb0a.chunk.js",
+    "main.js.map": "/game/static/js/main.2643eb0a.chunk.js.map",
+    "runtime-main.js": "/game/static/js/runtime-main.b70fdb9b.js",
+    "runtime-main.js.map": "/game/static/js/runtime-main.b70fdb9b.js.map",
+    "static/js/2.37b124a4.chunk.js": "/game/static/js/2.37b124a4.chunk.js",
+    "static/js/2.37b124a4.chunk.js.map": "/game/static/js/2.37b124a4.chunk.js.map",
+    "static/js/3.a66ca60d.chunk.js": "/game/static/js/3.a66ca60d.chunk.js",
+    "static/js/3.a66ca60d.chunk.js.map": "/game/static/js/3.a66ca60d.chunk.js.map",
+    "index.html": "/game/index.html",
+    "static/css/main.c707a2c9.chunk.css.map": "/game/static/css/main.c707a2c9.chunk.css.map",
+    "static/js/2.37b124a4.chunk.js.LICENSE.txt": "/game/static/js/2.37b124a4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/game/static/media/logo.6ce24c58.svg",
+    "static/media/tubeDown.0f4b4617.jpg": "/game/static/media/tubeDown.0f4b4617.jpg",
+    "static/media/tubeUp.a94dfe41.jpg": "/game/static/media/tubeUp.a94dfe41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b70fdb9b.js",
+    "static/js/2.37b124a4.chunk.js",
+    "static/css/main.c707a2c9.chunk.css",
+    "static/js/main.2643eb0a.chunk.js"
+  ]
+}
